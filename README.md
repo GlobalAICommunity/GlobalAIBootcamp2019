@@ -44,10 +44,10 @@ Use Azure Stream Analytics to run queries on live streams to analyze input and a
 Use Microsoft Cognitive Services to train an image classification model and call the model from an app or service 
 Connect Power BI to an Azure SQL database and visualize data from the database 
  
-- **Introduction to machine learning with Python and Azure Notebooks **   
+- **Introduction to machine learning with Python and Azure Notebooks**   
 Python has become a dominant language for doing data analysis with machine learning. Learn how to leverage Python and associated libraries in Jupyter Notebooks run on Azure Notebooks to predict patterns and identify trends. 
  
-- **Build AI solutions with Azure Machine Learning service **   
+- **Build AI solutions with Azure Machine Learning service**   
 Azure includes a variety of services for designing and deploying machine learning models. Learn how to leverage these services in your data analysis
 
 
