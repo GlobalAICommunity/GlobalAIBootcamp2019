@@ -3,6 +3,8 @@
 ## Learning paths & workshops 
 The learning paths we are offering in this bootcamp are aligned with the Microsoft identified roles. If you don’t have any experience: no worries, we have preparation material for you. 
 All workshops should ideally be end-to-end, so the participant can take a finished “product” home. 
+
+*A learning path takes around 6 hours and a workshop around 2 hours*
  
 ### Learning path: Azure AI Engineer 
 Azure AI Engineers use Cognitive Services, Machine Learning, and Knowledge Mining to architect and implement Microsoft AI solutions involving natural language processing, speech, computer vision, bots, and agents. 
