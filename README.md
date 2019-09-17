@@ -1,5 +1,5 @@
 # Global AI Bootcamp 2019 
- 
+
 ## Learning paths & workshops 
 The learning paths we are offering in this bootcamp are aligned with the Microsoft identified roles. If you don’t have any experience: no worries, we have preparation material for you. 
 All workshops should ideally be end-to-end, so the participant can take a finished “product” home. 
@@ -13,7 +13,7 @@ Learn how to use Cognitive Language Services to analyze text, determine intent, 
 - **Process and classify images with the Azure Cognitive Vision Services**    
 Microsoft Cognitive Services offers pre-built functionality to enable computer vision functionality in your applications. Learn how to use the Cognitive Vision Services to detect faces, tag and classify images, and identify objects. 
  
-- Build a solution using Knowledge Mining 
+- **Build a solution using Knowledge Mining **   
 Real-world data is messy. It often spans media types, such as text documents, PDF files, images, and databases. It changes constantly, it’s constantly growing, and it carries valuable knowledge in ways that aren’t readily usable. Knowledge mining refers to the ability to retrieve information and extract insights within a vast amount of data. Azure Search enables knowledge mining by using built-in AI capabilities to uncover latent insights from all your content–documents, images, and media. Azure Search is the only cloud search service with built-in AI capabilities that enable you to discover patterns and relationships in your content, understand sentiment, extract key phrases and more. Customer support organizations, for example, often use knowledge mining to extract data and intelligence out of case documentation. They can analyze customer sentiment to improve agent productivity and customer experience. 
  
 ### Azure Data Engineer 
