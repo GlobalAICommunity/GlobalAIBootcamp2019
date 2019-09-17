@@ -7,10 +7,10 @@ All workshops should ideally be end-to-end, so the participant can take a finish
 ### Azure AI Engineer 
 Azure AI Engineers use Cognitive Services, Machine Learning, and Knowledge Mining to architect and implement Microsoft AI solutions involving natural language processing, speech, computer vision, bots, and agents. 
  
-- Evaluate text with Azure Cognitive Language Services 
+- **Evaluate text with Azure Cognitive Language Services**    
 Learn how to use Cognitive Language Services to analyze text, determine intent, detect adult themes, and process natural language input. 
  
-- Process and classify images with the Azure Cognitive Vision Services 
+- **Process and classify images with the Azure Cognitive Vision Services**    
 Microsoft Cognitive Services offers pre-built functionality to enable computer vision functionality in your applications. Learn how to use the Cognitive Vision Services to detect faces, tag and classify images, and identify objects. 
  
 - Build a solution using Knowledge Mining 
@@ -18,24 +18,25 @@ Real-world data is messy. It often spans media types, such as text documents, PD
  
 ### Azure Data Engineer 
 Azure Data Engineers design and implement the management, monitoring, security, and privacy of data using the full stack of Azure data services to satisfy business needs. 
-Implement a Data Streaming Solution with Azure Streaming Analytics 
+
+- **Implement a Data Streaming Solution with Azure Streaming Analytics**    
 Learn the concepts of event processing and streaming data and how this applies to Azure Stream Analytics. You will then set up a stream analytics job to stream data and learn how to manage and monitor a running job. 
  
-- Perform data engineering with Azure Databricks 
+- **Perform data engineering with Azure Databricks**    
 Learn how to use Azure Databricks to accelerate the setup of Databricks in Azure. You'll work with data in an Azure SQL Data Warehouse with the built-in connector services. Explore the data services available with Azure Data Factory. Build streamlined workflows, and work with the interactive analytics workspace powered by Apache Spark. 
  
-- Create data visualizations by using Azure Databricks and Power BI 
+- **Create data visualizations by using Azure Databricks and Power BI**   
 Use Azure Databricks to create basic to advanced visualizations by using built-in charts and third-party libraries such as Matplotlib. Connect your Azure Databricks data to Power BI to create business-intelligence dashboards that can be shared with others. 
  
 In this workshop you will: 
- 
-Visualize query results by using the built-in charts in Azure Databricks. 
-Use advanced visualization techniques with Matplotlib. 
-Build custom reports in Power BI. 
+- Visualize query results by using the built-in charts in Azure Databricks. 
+- Use advanced visualization techniques with Matplotlib. 
+- Build custom reports in Power BI. 
  
 ### Azure Data Scientist 
 Azure Data Scientists apply Azure’s machine learning techniques to train, evaluate, and deploy models that solve business problems. 
-Analyze images in real-time with machine learning, Azure IoT Hub and Azure Stream Analytics 
+
+- **Analyze images in real-time with machine learning, Azure IoT Hub and Azure Stream Analytics**    
 Analyze streaming data with a machine learning model and visualize the output. 
 In this workshop you will: 
 Create an Azure Storage account and an IoT hub and use a Node.js app to connect them to a simulated camera 
@@ -43,10 +44,10 @@ Use Azure Stream Analytics to run queries on live streams to analyze input and a
 Use Microsoft Cognitive Services to train an image classification model and call the model from an app or service 
 Connect Power BI to an Azure SQL database and visualize data from the database 
  
-- Introduction to machine learning with Python and Azure Notebooks 
+- **Introduction to machine learning with Python and Azure Notebooks **   
 Python has become a dominant language for doing data analysis with machine learning. Learn how to leverage Python and associated libraries in Jupyter Notebooks run on Azure Notebooks to predict patterns and identify trends. 
  
-- Build AI solutions with Azure Machine Learning service 
+- **Build AI solutions with Azure Machine Learning service **   
 Azure includes a variety of services for designing and deploying machine learning models. Learn how to leverage these services in your data analysis
 
 
