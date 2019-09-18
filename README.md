@@ -6,7 +6,7 @@ All workshops should ideally be end-to-end, so the participant can take a finish
 
 *A learning path takes around 6 hours and a workshop around 2 hours*
  
-### Learning path: Azure AI Engineer 
+### Learning path: Azure AI Developer 
 Azure AI Engineers use Cognitive Services, Machine Learning, and Knowledge Mining to architect and implement Microsoft AI solutions involving natural language processing, speech, computer vision, bots, and agents. 
  
 - **Workshop: Evaluate text with Azure Cognitive Language Services**    
