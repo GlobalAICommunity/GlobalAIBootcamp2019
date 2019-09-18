@@ -18,22 +18,6 @@ Microsoft Cognitive Services offers pre-built functionality to enable computer v
 - **Workshop: Build a solution using Knowledge Mining**   
 Real-world data is messy. It often spans media types, such as text documents, PDF files, images, and databases. It changes constantly, it’s constantly growing, and it carries valuable knowledge in ways that aren’t readily usable. Knowledge mining refers to the ability to retrieve information and extract insights within a vast amount of data. Azure Search enables knowledge mining by using built-in AI capabilities to uncover latent insights from all your content–documents, images, and media. Azure Search is the only cloud search service with built-in AI capabilities that enable you to discover patterns and relationships in your content, understand sentiment, extract key phrases and more. Customer support organizations, for example, often use knowledge mining to extract data and intelligence out of case documentation. They can analyze customer sentiment to improve agent productivity and customer experience. 
  
-### Learning path: Azure Data Engineer 
-Azure Data Engineers design and implement the management, monitoring, security, and privacy of data using the full stack of Azure data services to satisfy business needs. 
-
-- **Workshop: Implement a Data Streaming Solution with Azure Streaming Analytics**    
-Learn the concepts of event processing and streaming data and how this applies to Azure Stream Analytics. You will then set up a stream analytics job to stream data and learn how to manage and monitor a running job. 
- 
-- **Workshop: Perform data engineering with Azure Databricks**    
-Learn how to use Azure Databricks to accelerate the setup of Databricks in Azure. You'll work with data in an Azure SQL Data Warehouse with the built-in connector services. Explore the data services available with Azure Data Factory. Build streamlined workflows, and work with the interactive analytics workspace powered by Apache Spark. 
- 
-- **Workshop: Create data visualizations by using Azure Databricks and Power BI**   
-Use Azure Databricks to create basic to advanced visualizations by using built-in charts and third-party libraries such as Matplotlib. Connect your Azure Databricks data to Power BI to create business-intelligence dashboards that can be shared with others. 
- 
-In this workshop you will: 
-- Visualize query results by using the built-in charts in Azure Databricks. 
-- Use advanced visualization techniques with Matplotlib. 
-- Build custom reports in Power BI. 
  
 ### Learning path: Azure Data Scientist 
 Azure Data Scientists apply Azure’s machine learning techniques to train, evaluate, and deploy models that solve business problems. 
@@ -51,6 +35,25 @@ Python has become a dominant language for doing data analysis with machine learn
  
 - **Workshop: Build AI solutions with Azure Machine Learning service**   
 Azure includes a variety of services for designing and deploying machine learning models. Learn how to leverage these services in your data analysis
+
+ 
+### Learning path: Azure Data Engineer 
+Azure Data Engineers design and implement the management, monitoring, security, and privacy of data using the full stack of Azure data services to satisfy business needs. 
+
+- **Workshop: Implement a Data Streaming Solution with Azure Streaming Analytics**    
+Learn the concepts of event processing and streaming data and how this applies to Azure Stream Analytics. You will then set up a stream analytics job to stream data and learn how to manage and monitor a running job. 
+ 
+- **Workshop: Perform data engineering with Azure Databricks**    
+Learn how to use Azure Databricks to accelerate the setup of Databricks in Azure. You'll work with data in an Azure SQL Data Warehouse with the built-in connector services. Explore the data services available with Azure Data Factory. Build streamlined workflows, and work with the interactive analytics workspace powered by Apache Spark. 
+ 
+- **Workshop: Create data visualizations by using Azure Databricks and Power BI**   
+Use Azure Databricks to create basic to advanced visualizations by using built-in charts and third-party libraries such as Matplotlib. Connect your Azure Databricks data to Power BI to create business-intelligence dashboards that can be shared with others. 
+ 
+In this workshop you will: 
+- Visualize query results by using the built-in charts in Azure Databricks. 
+- Use advanced visualization techniques with Matplotlib. 
+- Build custom reports in Power BI.
+
 
 
 ## How to prepare yourself 
