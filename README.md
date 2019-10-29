@@ -9,7 +9,7 @@ Take a look at all the communities also getting involved: [Global AI Bootcamp Lo
 * [Learning Paths and Workshops](#Learning-Paths-and-Workshops)
     * [Learning Path: Azure AI Developer](#Learning-path:-Azure-AI-Developer)
     * [Learning Path: Azure Data Scientist](#Learning-path:-Azure-Data-Scientist)
-* [Bonus ML.NET Content](#Bonus-ML.NET-Content)
+* [Bonus ML.NET Content](#bonus-mlnet-content)
 * [How to prepare yourself](#How-to-prepare-yourself)
 * [Offers from our sponsors](#Offer-from-our-sponsors)
 * [Feedback and Contributions](#Feedback-and-Contributions)
