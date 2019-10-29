@@ -153,11 +153,12 @@ This presentation covers some recent announcements of technologies related to Au
 You can prepare yourself with the broad variety of content on [Microsoft Learn](https://docs.microsoft.com/en-us/learn/?WT.mc_id=globalaicommunity-github-amynic). Content that is specifically related with the above defined roles: 
 - [Azure AI Engineer content](https://docs.microsoft.com/en-us/learn/browse/?products=azure&resource_type=learning%20path&roles=ai-engineer/?WT.mc_id=globalaicommunity-github-amynic) 
 - [Azure Data Scientist content](https://docs.microsoft.com/en-us/learn/browse/?products=azure&resource_type=learning%20path&roles=data-scientist/?WT.mc_id=globalaicommunity-github-amynic)
+- [Azure AI Developer content](https://docs.microsoft.com/en-us/learn/browse/?products=azure&resource_type=learning%20path&roles=ai-engineer/?WT.mc_id=globalaicommunity-github-amynic)
 
 Besides, DataChangers configured 3 learning paths that could also help you to get prepared: 
-- AI track 
-- Big Data track 
-- Data Science track 
+- [AI track](https://www.datachangers.com/artificial-intelligence-track-microsoft-professional-program/)
+- [Big Data track](https://www.datachangers.com/big-data-track-microsoft-professional-program/)
+- [Data Science track](https://www.datachangers.com/data-science-track-microsoft-professional-program/)
 
 > *Please note: Azure is changing at a rapid pace, so the content might be outdated, however hopefully inspiring!* 
 
