@@ -5,24 +5,6 @@ and firstly a big **'Thank You'** for hosting a Global AI Bootcamp in your local
 
 Take a look at all the communities also getting involved: [Global AI Bootcamp Locations](https://globalai.community/global-ai-bootcamp/)
 
-## Contents:
-* [Learning Paths and Workshops](#Learning-Paths-and-Workshops)
-    * [Learning Path: Azure AI Developer](#Learning-path:-Azure-AI-Developer)
-    * [Learning Path: Azure Data Scientist](#Learning-path:-Azure-Data-Scientist)
-* [Bonus ML.NET Content](#bonus-mlnet-content)
-* [How to prepare yourself](#How-to-prepare-yourself)
-* [Offers from our sponsors](#Offer-from-our-sponsors)
-* [Feedback and Contributions](#Feedback-and-Contributions)
-
-In order to help you put together a great agenda of content for your attendees - we have built and shared some great resources for talks and workshops you could run at your local event. 
-
-For each item listed the content will contain:
-* A Presentation
-* A GitHub repository with instructions on demos and workshop content
-* A Train-the-Trainer delivery of the session is provided in video format *or will be scheduled shortly*
-
-
-
 ## Workshop: Creating applications that can see, hear, speak or understand - using Microsoft Cognitive Services (2 hours)
 
  In this workshop you will be introduced to the Microsoft Azure Cognitive Services, a range of offerings you can use to infuse intelligence and machine learning into your applications without needing to build the code from scratch. We will cover pre-trained AI APIs, such as computer vision and text analytics, that are accessed by REST protocol. nEXT we will dive into Custom AI that uses transfer learning - Microsoft Azure Custom Vision. This enables you to provide a small amount of your own data to train an image classification model. Wrapping the workshop up by building our custom trained AI into an application - using Logic Apps, this technology is ideal for building data pipeline processes that work with your machine learning models.
