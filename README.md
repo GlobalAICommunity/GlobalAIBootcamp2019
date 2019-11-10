@@ -13,6 +13,7 @@ This year we have 5 workshops for you.
 - [Workshop 3 - Visual Interface for Automated ML](https://github.com/GlobalAICommunity/GlobalAIBootcamp-2019-Workshops/tree/master/Workshop%203%20AutoML)
 - [Workshop 4 - ML.Net](https://github.com/GlobalAICommunity/Workshop-MLNet)
 - [Workshop 5 - Azure Machine Learning Service](https://github.com/GlobalAICommunity/Workshop-AMLS)
+- [Workshop 6 - Cloud Scale Machine Learning](https://github.com/cloudscaleml/workshop)
 
 
 
