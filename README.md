@@ -20,4 +20,10 @@ This year we have 6 workshops for you.
 ## Ignite the Tour - Presentations & Demos
 All the content for the Learning path "Developers Guide to AI" is made available for you to deliver at the bootcamp. There are 5 presentations with train the trainers resources and all the materials needed to setup the demos.
 
-[Go to the sessions](ignite-the-tour.md)
+[Go to all sessions](ignite-the-tour.md)
+
+- AIML10: Making Sense of your Unstructured Data with AI (Azure Cognitive Search)
+- AIML20: Using Pre-Built AI to Solve Business Challenges (Azure Cognitive Services + ONNX)
+- AIML30: Start Building Machine Learning Models Faster than you think (Azure Machine Learning Designer)
+- AIML40: Taking Models to the Next Level with Azure Machine Learning Best Practices (Azure Machine Learning Service SDK and Automated ML)
+- AIML50: Machine Learning Operations - Applying DevOps to Data Science (Azure Machine Learning Deployment and Azure Pipelines)
