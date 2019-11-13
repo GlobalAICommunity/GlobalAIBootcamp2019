@@ -18,12 +18,22 @@ This year we have 6 workshops for you.
 
 
 ## Ignite the Tour - Presentations & Demos
-All the content for the Learning path "Developers Guide to AI" is made available for you to deliver at the bootcamp. There are 5 presentations with train the trainers resources and all the materials needed to setup the demos.
+Check out all the locations for [Ignite the Tour](https://www.microsoft.com/en-us/ignite-the-tour)
+
+All the content for the "Developers Guide to AI" Learning Path is made available for you to deliver at the bootcamp. There are 5 presentations with train the trainers resources and all the materials needed to setup the demos.
 
 [Go to all sessions](ignite-the-tour.md)
 
-- AIML10: Making Sense of your Unstructured Data with AI (Azure Cognitive Search)
-- AIML20: Using Pre-Built AI to Solve Business Challenges (Azure Cognitive Services + ONNX)
-- AIML30: Start Building Machine Learning Models Faster than you think (Azure Machine Learning Designer)
-- AIML40: Taking Models to the Next Level with Azure Machine Learning Best Practices (Azure Machine Learning Service SDK and Automated ML)
-- AIML50: Machine Learning Operations - Applying DevOps to Data Science (Azure Machine Learning Deployment and Azure Pipelines)
+- **AIML10:** Making Sense of your Unstructured Data with AI (Azure Cognitive Search)
+- **AIML20:** Using Pre-Built AI to Solve Business Challenges (Azure Cognitive Services + ONNX)
+- **AIML30:** Start Building Machine Learning Models Faster than you think (Azure Machine Learning Designer)
+- **AIML40:** Taking Models to the Next Level with Azure Machine Learning Best Practices (Azure Machine Learning Service SDK and Automated ML)
+- **AIML50:** Machine Learning Operations - Applying DevOps to Data Science (Azure Machine Learning Deployment and Azure Pipelines)
+
+
+Also all recordings of the sessions from Ignite Orlando 4th November - 8th November are available below:
+* AIML10:[https://myignite.techcommunity.microsoft.com/sessions/82986?source=sessions](https://myignite.techcommunity.microsoft.com/sessions/82986?source=sessions)
+* AIML20:[https://myignite.techcommunity.microsoft.com/sessions/82987?source=sessions](https://myignite.techcommunity.microsoft.com/sessions/82987?source=sessions)
+* AIML30:[https://myignite.techcommunity.microsoft.com/sessions/82993?source=sessions](https://myignite.techcommunity.microsoft.com/sessions/82993?source=sessions)
+* AIML40:[https://myignite.techcommunity.microsoft.com/sessions/83002?source=sessions](https://myignite.techcommunity.microsoft.com/sessions/83002?source=sessions)
+* AIML50:[https://myignite.techcommunity.microsoft.com/sessions/83003?source=sessions](https://myignite.techcommunity.microsoft.com/sessions/83003?source=sessions)
