@@ -4,7 +4,7 @@
 
 We are looking forward to working with all speakers who will deliver the content built below - we welcome your feedback and help to keep the content up-to-date. 
 
-* There are **x5 45 minute sessions** ([AIML10](https://github.com/microsoft/ignite-learning-paths-training-aiml/tree/master/aiml10/README.md), [AIML20](https://github.com/microsoft/ignite-learning-paths-training-aiml/tree/master/aiml20/README.md), [AIML30](aiml30/README.md), [AIML40](https://github.com/microsoft/ignite-learning-paths-training-aiml/tree/master/aiml40/README.md) and [AIML50](https://github.com/microsoft/ignite-learning-paths-training-aiml/tree/master/aiml50/README.md))
+* There are **x5 45 minute sessions** ([AIML10](https://github.com/microsoft/ignite-learning-paths-training-aiml/tree/master/aiml10/README.md), [AIML20](https://github.com/microsoft/ignite-learning-paths-training-aiml/tree/master/aiml20/README.md), [AIML30](https://github.com/microsoft/ignite-learning-paths-training-aiml/tree/master/aiml30), [AIML40](https://github.com/microsoft/ignite-learning-paths-training-aiml/tree/master/aiml40/README.md) and [AIML50](https://github.com/microsoft/ignite-learning-paths-training-aiml/tree/master/aiml50/README.md))
 * And **x1 20 min theatre session** ([AIML21](https://github.com/microsoft/ignite-learning-paths-training-aiml/tree/master/aiml21/README.md))
 
 ## Learning Path Description

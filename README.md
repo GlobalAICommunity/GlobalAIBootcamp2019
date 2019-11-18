@@ -32,8 +32,8 @@ All the content for the "Developers Guide to AI" Learning Path is made available
 
 
 Also all recordings of the sessions from Ignite Orlando 4th November - 8th November are available below:
-* AIML10:[https://myignite.techcommunity.microsoft.com/sessions/82986?source=sessions](https://myignite.techcommunity.microsoft.com/sessions/82986?source=sessions)
-* AIML20:[https://myignite.techcommunity.microsoft.com/sessions/82987?source=sessions](https://myignite.techcommunity.microsoft.com/sessions/82987?source=sessions)
-* AIML30:[https://myignite.techcommunity.microsoft.com/sessions/82993?source=sessions](https://myignite.techcommunity.microsoft.com/sessions/82993?source=sessions)
-* AIML40:[https://myignite.techcommunity.microsoft.com/sessions/83002?source=sessions](https://myignite.techcommunity.microsoft.com/sessions/83002?source=sessions)
-* AIML50:[https://myignite.techcommunity.microsoft.com/sessions/83003?source=sessions](https://myignite.techcommunity.microsoft.com/sessions/83003?source=sessions)
+* **AIML10:** [https://myignite.techcommunity.microsoft.com/sessions/82986?source=sessions](https://myignite.techcommunity.microsoft.com/sessions/82986?source=sessions)
+* **AIML20:** [https://myignite.techcommunity.microsoft.com/sessions/82987?source=sessions](https://myignite.techcommunity.microsoft.com/sessions/82987?source=sessions)
+* **AIML30:** [https://myignite.techcommunity.microsoft.com/sessions/82993?source=sessions](https://myignite.techcommunity.microsoft.com/sessions/82993?source=sessions)
+* **AIML40:** [https://myignite.techcommunity.microsoft.com/sessions/83002?source=sessions](https://myignite.techcommunity.microsoft.com/sessions/83002?source=sessions)
+* **AIML50:** [https://myignite.techcommunity.microsoft.com/sessions/83003?source=sessions](https://myignite.techcommunity.microsoft.com/sessions/83003?source=sessions)
