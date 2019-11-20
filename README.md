@@ -8,11 +8,11 @@ Take a look at all the communities also getting involved: [Global AI Bootcamp Lo
 
 ## Workshops
 This year we have 6 workshops for you.
-- [Workshop 1 - Custom Vision AI](https://github.com/GlobalAICommunity/Workshop-CustomVisionAITools)
-- [Workshop 2 - Visual Interface for Azure Machine Learning Service](https://github.com/GlobalAICommunity/Workshop-VisualInterfaceAzureMLSWine)
-- [Workshop 3 - Visual Interface for Automated ML](https://github.com/GlobalAICommunity/Workshop-VisualInterfaceAutoMLWine)
+- [Workshop 1 - Azure Custom Vision](https://github.com/GlobalAICommunity/Workshop-CustomVisionAITools)
+- [Workshop 2 - Azure Machine Learning designer](https://github.com/GlobalAICommunity/Workshop-VisualInterfaceAzureMLSWine)
+- [Workshop 3 - Automated ML UI](https://github.com/GlobalAICommunity/Workshop-VisualInterfaceAutoMLWine)
 - [Workshop 4 - ML.Net](https://github.com/GlobalAICommunity/Workshop-MLNet)
-- [Workshop 5 - Azure Machine Learning Service](https://github.com/GlobalAICommunity/Workshop-AMLS)
+- [Workshop 5 - Azure Machine Learning SDK](https://github.com/GlobalAICommunity/Workshop-AMLS)
 - [Workshop 6 - Cloud Scale Machine Learning](https://github.com/cloudscaleml/workshop)
 
 
