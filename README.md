@@ -5,6 +5,8 @@ and firstly a big **'Thank You'** for hosting a Global AI Bootcamp in your local
 
 Take a look at all the communities also getting involved: [Global AI Bootcamp Locations](https://globalai.community/global-ai-bootcamp/)
 
+Need some artwork? [ArtWork Repo](https://github.com/GlobalAICommunity/Artwork)
+
 
 ## Workshops
 This year we have 6 workshops for you.
